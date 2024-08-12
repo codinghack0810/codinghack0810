@@ -1,3 +1,4 @@
+<!--
 <h2 align="center" font-weight="bold">
 🌟✨ Welcome ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am a Legendary Star of FULL-STACK alchemy.
 </h2>
@@ -96,6 +97,7 @@
     <img height='25em' src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
   </p>
 <br/>
+-->
 
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
