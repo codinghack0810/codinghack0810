@@ -2,10 +2,10 @@
 🌟✨ Welcome ✨🌟 <br/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">I am a Legendary Star of FULL-STACK alchemy.
 </h2>
 
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=softdev0810" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=codinghack0810" />
 
 <p align="center" padding="0">
-  <a href="https://github.com/softdev0810">
+  <a href="https://github.com/codinghack0810">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=+Senior%20Front%20End%20Developer;Senior%20Back%20End%20Developer;Rich%20IT%20experience;&font=Anton&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22">
   </a>
 </p>
@@ -100,43 +100,43 @@
 <h1 font-weight="bold">📊 My Github Stats 🏆</h1>
 
 <!-- <div align='center'>
-  <img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  <img alt="stats" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghack0810&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
   <a href="#">
-    <img  src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&row=1&column=6" alt="trophy">
+    <img  src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=darkhub&row=1&column=6" alt="trophy">
   </a>
   <br/>
   <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level&theme=dark&preferLogin=false">
-    <img alt="softdev0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&theme=dark&preferLogin=false" />
+    <img alt="codinghack0810's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/codinghack0810?cardType=level&theme=dark&preferLogin=false" />
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=softdev0810&theme=dark" alt="GitHub Streak">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=codinghack0810&theme=dark" alt="GitHub Streak">
   </a>
   <br/>
-  <img alt="stats" height="200em" src="https://github-contributor-stats.vercel.app/api?username=softdev0810&limit=5&theme=dark&combine_all_yearly_contributions=true">
+  <img alt="stats" height="200em" src="https://github-contributor-stats.vercel.app/api?username=codinghack0810&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div> -->
 
 <p align="center">
-  <a href="https://github.com/softdev0810?tab=repositories">
-    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=softdev0810&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@softdev0810's github-readme-stats"/>
-<!--     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/softdev0810?cardType=level&theme=dark&preferLogin=false"  width="48%" alt="@softdev0810's github-readme-stats"/> -->
+  <a href="https://github.com/codinghack0810?tab=repositories">
+    <img src="https://github-readme-stats-one-bice.vercel.app/api?username=codinghack0810&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@codinghack0810's github-readme-stats"/>
+<!--     <img src="https://awesome-github-stats.azurewebsites.net/user-stats/codinghack0810?cardType=level&theme=dark&preferLogin=false"  width="48%" alt="@codinghack0810's github-readme-stats"/> -->
   </a>
-  <a href="https://github.com/softdev0810?tab=stars">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=softdev0810&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@softdev0810's github-readme-streak-stats"/>
+  <a href="https://github.com/codinghack0810?tab=stars">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=codinghack0810&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@codinghack0810's github-readme-streak-stats"/>
   </a>
 </p>
 
 <!-- activity graph heroku-app start -->
 <p align="center">
-    <a href="https://wakatime.com/@softdev0810">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=softdev0810&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+    <a href="https://wakatime.com/@codinghack0810">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=codinghack0810&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
     </a>
 </p>
 
 <div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=softdev0810&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/softdev0810?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=softdev0810&theme=darkhub&no-frame=true&column=3&row=2"  height="250px" alt="@softdev0810's trophy stats"/>
+  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinghack0810&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+  <a width='50%' href="https://github.com/codinghack0810?tab=achievements">
+    <img src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=darkhub&no-frame=true&column=3&row=2"  height="250px" alt="@codinghack0810's trophy stats"/>
   </a>
 </div>
 <br/>
