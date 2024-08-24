@@ -10,9 +10,9 @@
   </a>
   
 </p>
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=codinghack0810\&layout=compact&theme=radical" />
-</p>
+</p> -->
 <p align="center">
   <a href="https://github.com/codinghack0810/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-streak-stats-ikff.vercel.app/?user=codinghack0810&theme=radical" />
