@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=codinghack0810\&layout=compact&theme=radical" />
+  <img align="center" src="https://github-readme-stats-cg8z.vercel.app/api/wakatime?username=codinghack0810&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
