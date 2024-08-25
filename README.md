@@ -1,6 +1,6 @@
 <p align="center">
-<!--   <a href="https://github.com/codinghack0810?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=onestar&no-frame=true&column=3&row=2"  width="38%" alt="@codinghack0810's trophy stats"/></a> -->
-  <a href="https://github.com/codinghack0810?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=onestar&no-frame=true"  width="38%" alt="@codinghack0810's trophy stats"/></a>
+  <a href="https://github.com/codinghack0810?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=onestar&no-frame=true&column=5&row=2"  width="38%" alt="@codinghack0810's trophy stats"/></a>
+<!--   <a href="https://github.com/codinghack0810?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=codinghack0810&theme=onestar&no-frame=true"  width="38%" alt="@codinghack0810's trophy stats"/></a> -->
 </p>
 <p align="center">
   <a href="https://github.com/codinghack0810/github-readme-stats">
